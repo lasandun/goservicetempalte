@@ -1,0 +1,7 @@
+.git
+.vscode
+*.md
+*.log
+test/
+microservice
+config/config.yaml
